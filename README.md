@@ -5,6 +5,6 @@ Este repositório contém a implementação de uma aplicação desenvolvida como
 
 - Lógico: Aqui, transformamos o modelo conceitual em um modelo lógico, definindo as tabelas, relacionamentos e restrições do banco de dados.
 
-- Físico: Na última fase, implementamos o modelo lógico em um ambiente real, considerando aspectos como desempenho, segurança e otimização.
+- Físico: Na última fase, implementamos o modelo lógico em um ambiente real, considerando aspectos como desempenho, segurança e otimização. 
 
 Este projeto foi uma excelente oportunidade para entender e aplicar os conceitos fundamentais de bancos de dados, desde a concepção inicial até a implementação prática.
